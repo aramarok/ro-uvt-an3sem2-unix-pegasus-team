@@ -1,3 +1,5 @@
 = Links =
 
 [http://www.cs.fsu.edu/~engelen/soap.html SOAP]
+
+[http://docs.google.com/Doc?docid=dcqwxd9s_3dfznt5g3&hl=en template document de analiza]
